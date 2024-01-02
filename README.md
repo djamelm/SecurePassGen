@@ -1,4 +1,4 @@
-# Générateur de Mots de Passe
+# SecurePassGen
 
 Un simple générateur de mots de passe avec une interface graphique en utilisant Tkinter.
 
