@@ -35,15 +35,21 @@ Un générateur de mots de passe  avec une interface graphique développée en u
 
 ## Historique des mises à jour
 
-### Version 2.0 (Date)
+### Version 2.0 (09/01/2023)
 
 - Ajout de fonctionnalités de sauvegarde des mots de passe dans un fichier.
 - Amélioration de l'interface utilisateur avec des options plus conviviales.
-- Ajout de fonctionnalités de gestion du presse-papiers.
+- Intégration de fonctionnalités de gestion du presse-papiers.
+- Correction de bugs mineurs liés à la génération aléatoire.
+- Annuler la possibilité de spécifier la longueur du mot de passe et le nombre de lettres et de chiffres.
+- Refonte complète de l'algorithme de génération de mots de passe pour une meilleure sécurité.
+- Ajout d'une barre de menu pour une navigation plus intuitive dans l'application.
 
-### Version 1.0 (Date)
+### Version 1.0 (31/12/2024)
 
 - Version initiale avec la génération de mots de passe basique.
+- Possibilité de spécifier la longueur du mot de passe et le nombre de lettres et de chiffres.
+- Fonctionnalité de copie du mot de passe généré dans le presse-papiers.
 
 ## Licence
 
